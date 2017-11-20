@@ -35,7 +35,7 @@ $config['base_url'] = 'http://localhost/cadastrodeclientes/index.php';
 | variable so that it is blank.
 |
 */
-$config['index_page'] = '';
+$config['index_page'] = 'http://localhost/cadastrodeclientes/welcome/cadastro';
 
 /*
 |--------------------------------------------------------------------------
