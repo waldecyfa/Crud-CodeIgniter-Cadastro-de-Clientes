@@ -4,7 +4,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 <html lang="en">
 <head>
 	<meta charset="utf-8">
-	<title>Vídeo Aula - CodeIgniter</title>
+	<title>-CodeIgniter- Cadastro de Clientes</title>
 
 	<style type="text/css">
 
@@ -68,7 +68,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 <body>
 
 <div id="container">
-	<h1>Bem vindo à vídeo aula de CodeIgniter!</h1>
+	<h1>CodeIgniter Cadastro de Clientes!</h1>
 
 	<div id="body">
 		<p>The page you are looking at is being generated dynamically by CodeIgniter.</p>
